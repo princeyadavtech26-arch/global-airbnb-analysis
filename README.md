@@ -148,14 +148,6 @@ A PDF preview of the complete Power BI dashboard is available below.
 
 ---
 
-## 👨‍💻 Author
-
-**Prince Yadav**
-
-B.Tech CSE Student | Aspiring Data Analyst
-
-**Skills:** Power BI | SQL | Advanced Excel | Python
-
 ## 📂 Project Files
 
 ```text
@@ -164,3 +156,11 @@ global-airbnb-analysis/
 ├── Airbnb.pbix
 ├── Airbnb project.pdf
 └── README.md
+
+## 👨‍💻 Author
+
+**Prince Yadav**
+
+B.Tech CSE Student | Aspiring Data Analyst
+
+**Skills:** Power BI | Advanced Excel | Python
