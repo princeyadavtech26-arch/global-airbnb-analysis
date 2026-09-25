@@ -144,7 +144,7 @@ The objective of this project is to analyze global Airbnb data and build an inte
 
 A PDF preview of the complete Power BI dashboard is available below.
 
-📄 **[View Complete Airbnb Dashboard PDF](Airbnb%20project.pdf)**
+📄 **[View Complete Airbnb Dashboard PDF](https://github.com/princeyadavtech26-arch/global-airbnb-analysis/blob/main/Airbnb%20project.pdf)**
 
 ---
 
